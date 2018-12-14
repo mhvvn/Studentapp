@@ -9,8 +9,7 @@ A demo CRUD app for student record management system built with Angular7 and Fir
 - NGX Pagination 3.2.1
 
 ## Resources Links
-Project Demo:    https://status-app-306c8.firebaseapp.com
-
+Project Demo:    http://bit.ly/2RWTY2N
 ## Technologies used
 - Node 8.11.1
 - Angular CLI 7.0.1
