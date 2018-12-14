@@ -23,8 +23,10 @@ Project Demo:    https://status-app-306c8.firebaseapp.com
 - RxJS 6.3.3
 - Typescript 2.7.2
 
-##npm install@angular/cli
--ng new demo-deploy
+## How to Run in local Server
+- ng new nameApp
+- cd new nameApp
+-ng new demo-depl
 -cd new demo-deploy
 -nmp start
 -open localhost:4200
@@ -46,16 +48,4 @@ Project Demo:    https://status-app-306c8.firebaseapp.com
 -firebase deploy
 
 ##Deploy to Heroku
-
-## Technologies used
-- Node 8.11.1
-- Angular CLI 7.0.1
-- Angular 7.0.1
-- Firebase 5.5.5
-- Bootstrap 4.1.3
-- Font Awesome
-- NGX Toastr 9.1.1
-- NGX Pagination 3.2.1
-- RxJS 6.3.3
-- Typescript 2.7.2
 
