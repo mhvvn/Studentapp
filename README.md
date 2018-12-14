@@ -24,10 +24,26 @@ Written Article: [https://bit.ly/2IxXg8Z](https://bit.ly/2IxXg8Z)
 - RxJS 6.3.3
 - Typescript 2.7.2
 
+##npm install@angular/cli
+-ng new demo-deploy
+-cd new demo-deploy
+-nmp start
+-open localhost:4200
 
-How to upload to Github 
-git init
-git add -A
-git commit -u "xxx"
-git remote add origin https://github.com/repo
-git remote add origin https://github.com/mhvvn/Studentapp.git
+##How to upload to Github 
+-git init
+-git add -A
+-git commit -u "xxx"
+-git remote add origin https://github.com/repo
+-git remote add origin https://github.com/mhvvn/Studentapp.git
+-
+##Deploy to Firebase
+-angularfirebase-student-app
+-firebase login
+-firbase init
+-select spasi hosting
+-repository demo-deploy
+-ng build --prod
+-firebase deploy
+
+##Deploy to Heroku
