@@ -25,4 +25,9 @@ Written Article: [https://bit.ly/2IxXg8Z](https://bit.ly/2IxXg8Z)
 - Typescript 2.7.2
 
 
-[Visit positronX.io to learn more about full stack software development](https://www.positronx.io/)# StudentApp-Firebase
+How to upload to Github 
+git init
+git add -A
+git commit -u "xxx"
+git remote add origin https://github.com/repo
+git remote add origin https://github.com/mhvvn/Studentapp.git
